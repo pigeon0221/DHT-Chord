@@ -1,4 +1,4 @@
-package edu.buffalo.cse.cse486586.simpledht;
+package simpledht;
 
 import android.content.ContentProvider;
 import android.content.ContentValues;
